@@ -1,0 +1,59 @@
+[
+  {
+    "name": "用户管理",
+    "icon": "User",
+    "children": [
+      {
+        "name": "用户信息",
+        "icon": "UserFilled",
+        "path": "/admin/userManage"
+      },
+      {
+        "name": "管理员信息",
+        "icon": "Avatar",
+        "path": "/admin/adminManage",
+        "disabled": true
+      }
+    ]
+  },
+  {
+    "name": "音乐管理",
+    "icon": "Headset",
+    "children": [
+      {
+        "name": "音乐信息",
+        "icon": "Service",
+        "path": "/admin/musicManage"
+      },
+      {
+        "name": "歌单信息",
+        "icon": "Document",
+        "path": "/admin/playlistManage",
+        "disabled": true
+      }
+    ]
+  },
+  {
+    "name": "留言板管理",
+    "icon": "DataLine",
+    "children": [
+      {
+        "name": "用户留言",
+        "icon": "Message",
+        "path": "/admin/messageManage"
+      }
+    ]
+  },
+  {
+    "name":"系统管理",
+    "icon":"Setting",
+    "children":[
+      {
+        "name":"模块",
+        "icon":"Cpu",
+        "path":"/admin/systemManage",
+        "disabled": true
+      }
+    ]
+  }
+]
