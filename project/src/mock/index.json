@@ -1,0 +1,60 @@
+[
+  {
+    "name": "在线音乐",
+    "icon": "Music",
+    "children": [
+      {
+        "name": "推荐",
+        "icon": "Star",
+        "path": "/user/recommend"
+      },
+      {
+        "name": "音乐馆",
+        "icon": "Headset",
+        "path": "/user/musicHall"
+      },
+      {
+        "name": "视频",
+        "icon": "VideoCamera",
+        "path": "/user/video"
+      }
+    ]
+  },
+  {
+    "name": "我的音乐",
+    "icon": "Menu",
+    "children": [
+      {
+        "name": "我喜欢",
+        "icon": "StarFilled",
+        "path": "/user/like"
+      },
+      {
+        "name": "本地和下载",
+        "icon": "Download",
+        "path": "/user/download"
+      },
+      {
+        "name": "已购音乐",
+        "icon": "WalletFilled",
+        "path": "/user/purchased"
+      }
+    ]
+  },
+  {
+    "name":"信息中心",
+    "icon":"Bell",
+    "children":[
+      {
+        "name":"留言中心",
+        "icon":"Message",
+        "path":"/user/message"
+      },
+      {
+        "name":"其他",
+        "icon":"More",
+        "path":"/user/other"
+      }
+    ]
+  }
+]
