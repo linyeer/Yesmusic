@@ -9,6 +9,10 @@ import UserManage from '@/components/UserManage.vue'
 
 const routes = [
   {
+    path: '/',
+    redirect: '/login' // 添加这一行
+  },
+  {
     path: '/user/index',
     component: Index,
     meta: { requiresAuth: true }, // 保护路由
