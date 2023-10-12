@@ -27,6 +27,6 @@
 ![用户页](https://github.com/linyeer/Yesmusic/blob/main/images/user.png)
 ![管理页](https://github.com/linyeer/Yesmusic/blob/main/images/admin.png)
 
-## 📧 联系我们
+## 📧 联系
 
 如果您有任何问题或建议，请随时联系我。
