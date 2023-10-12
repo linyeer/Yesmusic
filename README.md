@@ -22,8 +22,8 @@
 以下是我们网站的一些截图：
 
 ![登录页](https://github.com/linyeer/Yesmusic/blob/main/images/login.png)
-!截图2
-!截图3
+![用户页](https://github.com/linyeer/Yesmusic/blob/main/images/user.png)
+![管理页](https://github.com/linyeer/Yesmusic/blob/main/images/admin.png)
 
 ## 📧 联系我们
 
