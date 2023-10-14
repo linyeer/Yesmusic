@@ -22,18 +22,8 @@
 
 > **前端**：Vue3 + Vite + Element Plus + Windi CSS  
 > **后端**：Node.js
-> **Node模块**
-**vue-router**
 
-**axios** 
-
-**mysql**
-
-**express**
-
-**node**
-
-**jsonwebtoken**
+> **Node模块**：vue-router、axios、mysql、express、node、jsonwebtoken
 
 ## 📦 安装
 
