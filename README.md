@@ -27,8 +27,8 @@
 
 - 配置对应的数据库信息和音乐表的路径（相对于public/audio里的路径）
 - `npm install` 安装依赖
-- **npm run dev** 在public目录下启动前端服务器
-- **node app**    在service目录下启动后端服务器
+- `npm run dev` 在public目录下启动前端服务器
+- `node app`   在service目录下启动后端服务器
 
 
 ## 📸 截图
