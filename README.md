@@ -20,7 +20,7 @@
 
 ## 🛠 技术栈
 
-- **前端**：Vue3 + Vite + Element Plus + Windi CSS
+- **前端**：```Vue3 + Vite + Element Plus + Windi CSS```
 - **后端**：Node.js
 
 ## 📦 安装
